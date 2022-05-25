@@ -1,4 +1,4 @@
-# Digiatl Gumi B2B portal CSV API
+# DIGITAL Gumi B2B Portal CSV API
 B2B CSV API PHP client
 
 <!-- CONTACT -->
