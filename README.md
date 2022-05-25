@@ -6,11 +6,11 @@ B2B CSV API PHP client
 
 Ügyviteli megoldások gumiszervízek és abroncskereskedők részére
 
-WWW: [https://www.gumiugyvitel.hu](https://www.gumiugyvitel.hu)
+WWW: [https://www.gumisugyvitel.hu](https://www.gumisugyvitel.hu)
 
 <!-- CONTACT -->
 ##  Contact
 
 ERP solutions for tire service garages and tire traders
 
-WWW: [https://www.gumiugyvitel.hu](https://www.gumiugyvitel.hu)
+WWW: [https://www.gumisugyvitel.hu](https://www.gumisugyvitel.hu)
